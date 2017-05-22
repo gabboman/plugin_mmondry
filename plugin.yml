@@ -1,0 +1,4 @@
+name: MobsChetos
+main: es.titaniumsystem.gabamagar.andryvision09_plugin.ChetosMobs
+version: 0.0.01
+commands:
