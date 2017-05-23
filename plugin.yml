@@ -2,3 +2,6 @@ name: MobsChetos
 main: es.titaniumsystem.gabamagar.andryvision09_plugin.ChetosMobs
 version: 0.0.01
 commands:
+  chetosmobsupdate:
+    description: Your description
+    usage: /chetosmobsupdate zombie salud 5 -> multiplica la salud de los zombies por 5. POR EL CULO TE LA HINCO
